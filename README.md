@@ -1,13 +1,13 @@
 ### Zach
-Beginner Java, Lua, and C# developer.
+Beginner Java, Lua, Web, and C# developer.
 
 ### Currently Learning
 - C#
 - Unity
 
 ### Currently Working On
-- StratoBot - Mulitpurpose Discord bot capable of almost anything!
-- Random C# practice.
+- Leanring Bootstrap.
+- Random HTML/CSS practice.
 
 ### What I Wanna Be Doin
 - S&Box Development
