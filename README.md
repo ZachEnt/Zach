@@ -2,11 +2,11 @@
 Beginner Java, Lua, Web, and C# developer.
 
 ### Currently Learning
-- C#
-- Unity
+- Bootstrap
+- HTML/CSS
 
 ### Currently Working On
-- Leanring Bootstrap.
+- Learning Bootstrap.
 - Random HTML/CSS practice.
 
 ### What I Wanna Be Doin
