@@ -2,16 +2,13 @@
 Beginner Java, Lua, Web, and C# developer.
 
 ### Currently Learning
-- Bootstrap
-- HTML/CSS
+- s&box
 
 ### Currently Working On
 - Learning Bootstrap.
 - Random HTML/CSS practice.
 
 ### What I Wanna Be Doin
-- S&Box Development
-- Learn HTML + CSS
 - Sleeping
 
 ### About Me
@@ -20,5 +17,5 @@ I am a high schooler who wants to have a future within computer science. Before 
 ### My Community
 ridge.gg
 
-Will provide S&Box content as soon as a key is acquired. 
+tryin my best at providing s&box content 😎
 
