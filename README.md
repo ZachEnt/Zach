@@ -1,12 +1,10 @@
 ### Zach
-Beginner Java, Lua, Web, and C# developer.
+I know a lot of langauges that doesn't mean I can use them though 😎
+most proficient with Lua, C#, web, and English.
 
 ### Currently Learning
+- C#
 - s&box
-
-### Currently Working On
-- Learning Bootstrap.
-- Random HTML/CSS practice.
 
 ### What I Wanna Be Doin
 - Sleeping
@@ -17,5 +15,5 @@ I am a high schooler who wants to have a future within computer science. Before 
 ### My Community
 ridge.gg
 
-tryin my best at providing s&box content 😎
+tryin my best at providing s&box content 😎👉👉
 
