@@ -1,8 +1,8 @@
 ### Zach
 
-not sure what im doing tbh
+Computer Science Major Winner
 
 ### My Community
-ridge.gg
+stel.gg
 
 
